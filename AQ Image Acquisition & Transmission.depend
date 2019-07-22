@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1522007176 source:/home/pi/Documents/AQ Image Acquisition & Transmission/main.c
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netdb.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"video.h"
+
+1521906595 
+
+1521906595 source:/home/pi/Documents/AQ Image Acquisition & Transmission/reseau.c
+	"reseau.h"
+
+1521905644 /home/pi/Documents/AQ Image Acquisition & Transmission/reseau.h
+
+1521906923 /home/pi/Documents/AQ Image Acquisition & Transmission/video.h
+
+1521907158 source:/home/pi/Documents/AQ Image Acquisition & Transmission/video.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"video.h"
+
+1521910758 source:c:\users\matthieu\dropbox\lycée\projet si drone\recherche matthieu\communication et commande à distance\server\aq image acquisition & transmission\video.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"video.h"
+
+1521910523 c:\users\matthieu\dropbox\lycée\projet si drone\recherche matthieu\communication et commande à distance\server\aq image acquisition & transmission\video.h
+
+1523997254 source:c:\users\matthieu\dropbox\lycée\projet si drone\recherche matthieu\communication et commande à distance\server\aq image acquisition & transmission\main.c
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netdb.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"video.h"
+
+1523918360 source:d:\desktop\dropbox\lycée\projet si drone\recherche matthieu\communication et commande à distance\server\aq image acquisition & transmission\main.c
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netdb.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"video.h"
+
+1521910523 d:\desktop\dropbox\lycée\projet si drone\recherche matthieu\communication et commande à distance\server\aq image acquisition & transmission\video.h
+
+1521910758 source:d:\desktop\dropbox\lycée\projet si drone\recherche matthieu\communication et commande à distance\server\aq image acquisition & transmission\video.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"video.h"
+
+1525024204 source:/media/matthieu/DATA/Dropbox/LycÃ©e/Projet SI Drone/Recherche Matthieu/Communication et Commande Ã  distance/server/AQ Image Acquisition & Transmission/main.c
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netdb.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"video.h"
+
+1521906923 /media/matthieu/DATA/Dropbox/LycÃ©e/Projet SI Drone/Recherche Matthieu/Communication et Commande Ã  distance/server/AQ Image Acquisition & Transmission/video.h
+
+1525024056 source:/media/matthieu/DATA/Dropbox/LycÃ©e/Projet SI Drone/Recherche Matthieu/Communication et Commande Ã  distance/server/AQ Image Acquisition & Transmission/video.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"video.h"
+
+1525039247 source:e:\dropbox\lycée\projet si drone\recherche matthieu\communication et commande à distance\server\aq image acquisition & transmission\video.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"video.h"
+
+1521910523 e:\dropbox\lycée\projet si drone\recherche matthieu\communication et commande à distance\server\aq image acquisition & transmission\video.h
+
+1525045221 source:e:\dropbox\lycée\projet si drone\recherche matthieu\communication et commande à distance\server\aq image acquisition & transmission\main.c
+	<winsock2.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<netdb.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"video.h"
+
